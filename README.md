@@ -1,4 +1,4 @@
-Distributed-Bellman-Ford
+Distributed-Network-Routing-Algorithm
 ========================
 
 a. A brief description of the code
